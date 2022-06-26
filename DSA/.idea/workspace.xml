@@ -36,11 +36,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Stack" />
       <recent name="CircularLinkedList" />
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CircularLinkedList.Main">
+  <component name="RunManager" selected="Application.Stack.Main">
     <configuration name="CircularLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularLinkedList.Main" />
       <module name="DSA" />
@@ -80,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stack.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stack.Main" />
         <item itemvalue="Application.CircularLinkedList.Main" />
         <item itemvalue="Application.LinkedList.Main" />
         <item itemvalue="Application.Main" />
