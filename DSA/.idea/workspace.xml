@@ -36,14 +36,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SelectionSort" />
       <recent name="InsertionSort" />
       <recent name="Queue" />
       <recent name="Stack" />
       <recent name="CircularLinkedList" />
-      <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CircularLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularLinkedList.Main" />
       <module name="DSA" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort.Main" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="SelectionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.InsertionSort.Main" />
         <item itemvalue="Application.Queue.Main" />
         <item itemvalue="Application.Stack.Main" />
         <item itemvalue="Application.CircularLinkedList.Main" />
-        <item itemvalue="Application.LinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
