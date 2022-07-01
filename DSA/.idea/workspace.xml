@@ -39,14 +39,14 @@
       <recent name="C:\Users\MUSTAN\Documents\GitHub\Data-Structures-and-Algorithms\DSA\src\MergeSort " />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CountingSort" />
       <recent name="BubbleSort" />
       <recent name="MergeSort" />
       <recent name="QuickSort" />
       <recent name="SelectionSort" />
-      <recent name="InsertionSort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort.Main">
+  <component name="RunManager" selected="Application.CountingSort.Main">
     <configuration name="BubbleSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort.Main" />
       <module name="DSA" />
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort.Main" />
+    <configuration name="CountingSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingSort.Main" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InsertionSort.*" />
+          <option name="PATTERN" value="CountingSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountingSort.Main" />
         <item itemvalue="Application.BubbleSort.Main" />
         <item itemvalue="Application.MergeSort.Main" />
         <item itemvalue="Application.QuickSort.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InsertionSort.Main" />
       </list>
     </recent_temporary>
   </component>
