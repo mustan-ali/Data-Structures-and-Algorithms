@@ -39,14 +39,14 @@
       <recent name="C:\Users\MUSTAN\Documents\GitHub\Data-Structures-and-Algorithms\DSA\src\MergeSort " />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BinarySearchTree" />
       <recent name="BinaryTree" />
       <recent name="CountingSort" />
       <recent name="BubbleSort" />
       <recent name="MergeSort" />
-      <recent name="QuickSort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BinaryTree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTree.Main" />
       <module name="DSA" />
@@ -86,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTree.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSort.Main" />
       <module name="DSA" />
@@ -99,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort.Main" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QuickSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BinaryTree.Main" />
         <item itemvalue="Application.CountingSort.Main" />
         <item itemvalue="Application.BubbleSort.Main" />
         <item itemvalue="Application.MergeSort.Main" />
-        <item itemvalue="Application.QuickSort.Main" />
       </list>
     </recent_temporary>
   </component>
